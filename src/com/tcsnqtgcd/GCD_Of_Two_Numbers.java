@@ -24,6 +24,8 @@ public class GCD_Of_Two_Numbers {
         
         int result = gcd(num1, num2);
         System.out.println("GCD of " + num1 + " and " + num2 + " is: " + result);
+        
+        sc.close();
     }
 
 }
